@@ -1,0 +1,6 @@
+readonly
+image_test_data
+image_train_data
+__pycache__
+.ipynb_checkpoints
+*.gl
